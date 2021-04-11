@@ -1,0 +1,23 @@
+.fancy-header{
+	color: red;
+	text-decoration: underline;
+	text-decoration-style: dotted;
+	
+
+}
+
+p, ol{
+	font-size: 18px;
+	
+}
+
+.box{
+	position: relative;
+	clear: right;
+}
+
+.gif{
+	margin-left: 50px;
+	margin-top: 10px;
+
+}	
